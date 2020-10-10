@@ -12,11 +12,11 @@ A simple to-do list in React
 ## How to contribute?
 
 1. Fork this repository into your github account
-2. then clone this project into your local machine `git clone https://github.com/Developer-Students-Clubs-MESCOE/To-do-list-in-React.git`
-3. make a new branch `git checkout -b branch-name`
+2. Clone this project into your local machine.<br/> `git clone https://github.com/Developer-Students-Clubs-MESCOE/To-do-list-in-React.git`
+3. make a new branch.<br/> `git checkout -b branch-name`
 4. push your code into this branch.<br/>
-   `git add .`
-   `git commit`
+   `git add .`<br/>
+   `git commit`<br/>
    `git push origin branch-name`
 5. Make a Pull request
 
