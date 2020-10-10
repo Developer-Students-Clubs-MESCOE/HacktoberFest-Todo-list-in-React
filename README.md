@@ -3,10 +3,22 @@
 A simple to-do list in React
 
 ## Functionalities
-* textbox to enter the list
-* display the list
-* delete items from list
-you can add your own functionalities too.
+
+- textbox to enter the list
+- display the list
+- delete items from list
+- You can add your own functionalities too.
+
+## How to contribute?
+
+1. Fork this repository into your github account
+2. then clone this project into your local machine `git clone https://github.com/Developer-Students-Clubs-MESCOE/To-do-list-in-React.git`
+3. make a new branch `git checkout -b branch-name`
+4. push your code into this branch.<br/>
+   `git add .`
+   `git commit`
+   `git push origin branch-name`
+5. Make a Pull request
 
 ## Available Scripts
 
@@ -20,4 +32,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-
+Star this repo if you liked it :)
